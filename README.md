@@ -27,21 +27,21 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ### ✅ Tenho base
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,php,mysql,html,css&theme=dark" />
   </a>
 </p>
 
 ### 📖 Aprendendo
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,dotnet,ruby,js,laravel&theme=dark" />
   </a>
 </p>
 
 ### 🔧 Ferramentas
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows&theme=dark" />
   </a>
