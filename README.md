@@ -75,7 +75,7 @@
 
 | Projeto | Linguagem | Nível | Status |
 |---|---|---|---|
-| 📂 File Manager (estilo TreeSize) | Python | ⭐⭐ Médio | 🔜 Em breve |
+| 📂 File Manager | Python | ⭐⭐ Médio | 🔜 Em breve |
 | ⬇️ Universal Downloader | Python | ⭐⭐ Médio | 🔜 Em breve |
 | 🛠️ Windows PC Manager | Python | ⭐⭐ Médio | 🔜 Em breve |
 | 🤖 Bot de Telegram | Python | ⭐⭐ Júnior/Médio | 🔜 Em breve |
