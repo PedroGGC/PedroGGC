@@ -28,24 +28,32 @@
 
 ### ✅ Tenho base
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,php,mysql,html,css&theme=dark" />
-  </a>
+  <a href="https://www.learn-c.org" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
+  <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
 </p>
 
 ### 📖 Aprendendo
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,dotnet,ruby,js,laravel&theme=dark" />
-  </a>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp" title="C#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
+  <a href="https://dotnet.microsoft.com" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a>
+  <a href="https://www.ruby-lang.org" title="Ruby"><img src="https://skillicons.dev/icons?i=ruby&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+  <a href="https://laravel.com" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" /></a>
 </p>
 
 ### 🔧 Ferramentas
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows&theme=dark" />
-  </a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+  <a href="https://visualstudio.microsoft.com" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
+  <a href="https://www.microsoft.com/windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" /></a>
 </p>
+>
 
 ---
 
