@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pedro Gabriel 👋</h1>
+<h1 align="center">Olá, Me chamo Pedro Gabriel 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Hobby+Developer;C+%2F+PHP+%2F+MySQL;Learning+Python+%26+Ruby;Building+a+solid+portfolio" alt="Typing SVG" />
