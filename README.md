@@ -69,54 +69,6 @@
 
 ---
 
-
-## 🗺️ Roadmap de Projetos
-
-### 🖥️ Desktop / Aplicações Locais
-
-| Projeto | Linguagem | Nível | Status |
-|---|---|---|---|
-| 📂 File Manager (estilo TreeSize) | Python | ⭐⭐ Médio | 🔜 Em breve |
-| ⬇️ Universal Downloader | Python | ⭐⭐ Médio | 🔜 Em breve |
-| 🛠️ Windows PC Manager | Python | ⭐⭐ Médio | 🔜 Em breve |
-| 🤖 Bot de Telegram | Python | ⭐⭐ Júnior/Médio | 🔜 Em breve |
-| 🧮 Calculadora Científica | C# + WinForms | ⭐⭐ Júnior/Médio | 🔜 Em breve |
-| 🔐 Gerenciador de Senhas | C# + WinForms | ⭐⭐ Júnior/Médio | 🔜 Em breve |
-| ✅ Gerenciador de Tarefas | C# + WPF | ⭐⭐ Médio | 🔜 Em breve |
-
-### 🌐 Web — PHP / Laravel
-
-| Projeto | Stack | Nível | Status |
-|---|---|---|---|
-| 📝 Sistema de Blog | PHP + MySQL | ⭐ Júnior | 🔜 Em breve |
-| 🔗 Encurtador de Links | PHP + MySQL | ⭐⭐ Júnior/Médio | 🔜 Em breve |
-| 🛒 API de E-commerce | Laravel + JWT | ⭐⭐ Médio | 🔜 Em breve |
-| 📅 Sistema de Reservas | Laravel + Queue | ⭐⭐⭐ Médio | 🔜 Em breve |
-
-### 🌐 Web — C# / ASP.NET Core
-
-| Projeto | Stack | Nível | Status |
-|---|---|---|---|
-| ✅ API REST simples | ASP.NET Core + SQLite | ⭐ Júnior | 🔜 Em breve |
-| 🏪 Sistema de Estoque | ASP.NET Core + EF Core | ⭐⭐⭐ Médio/Pleno | 🔜 Em breve |
-
-### 🐍 Web — Python
-
-| Projeto | Stack | Nível | Status |
-|---|---|---|---|
-| ✅ API de To-do | FastAPI + SQLite | ⭐ Júnior | 🔜 Em breve |
-| 🕷️ Web Scraper + Painel | Flask + BeautifulSoup | ⭐⭐ Médio | 🔜 Em breve |
-| 🔐 Auth System completo | Django + JWT | ⭐⭐⭐ Médio | 🔜 Em breve |
-
-### 💎 Web — Ruby on Rails
-
-| Projeto | Stack | Nível | Status |
-|---|---|---|---|
-| 📚 Catálogo de Livros | Rails + Active Record | ⭐ Júnior | 🔜 Em breve |
-| 🐦 Mini-Twitter Clone | Rails + Devise + ActionCable | ⭐⭐⭐ Médio | 🔜 Em breve |
-
----
-
 ## 📬 Contato
 
 <p align="center">
