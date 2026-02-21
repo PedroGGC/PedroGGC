@@ -83,3 +83,10 @@
   </a>
 </p>
 
+<p align="center">
+  <i>Construindo um projeto de cada vez. 🚀</i>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078d4&height=80&section=footer" />
+</p>
+
+
