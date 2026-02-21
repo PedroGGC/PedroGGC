@@ -53,7 +53,6 @@
   <a href="https://visualstudio.microsoft.com" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
   <a href="https://www.microsoft.com/windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" /></a>
 </p>
->
 
 ---
 
