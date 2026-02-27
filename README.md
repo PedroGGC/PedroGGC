@@ -63,10 +63,6 @@
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroGGC&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGGC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ##  Contato
