@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Me chamo Pedro Gabriel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=680&lines=Hobby+Developer;PHP+%2B+MySQL;Learning+Python+%2F+C%23+%2F+.NET;Building+Desktop+Tools+%26+Web+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=680&lines=Hobby+Developer;PHP+%2B+MySQL;Learning+TypeScript+%2F+Python;Building+Web+APIs+%26+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,32 +17,31 @@
 ## Sobre mim
 
 - Minha base vem do **C** — onde aprendi lógica, estruturas de dados e como pensar como um programador
-- Tenho experiência prática com **PHP, MySQL e HTML/CSS**, desenvolvidos por hobby
-- Em processo de aprendizado: **Python, C#/.NET, Ruby, JavaScript, Laravel e APIs REST**
-- Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev
+- Tenho experiência prática com **PHP, MySQL, HTML, CSS e JavaScript**, desenvolvidos por hobby
+- Foco atual e em processo de aprendizado: **TypeScript, Python, Prisma e Laravel**
+- Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web
 - Motto: *"Just trying to make it work"*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tecnologias & Ferramentas
 
-### Base
+### Base & Front-end
 <p>
 <a href="https://www.learn-c.org" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
-<a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
-<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
 </p>
 
-### Aprendendo
+### Back-end & Banco de Dados
 <p>
-<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
-<a href="https://dotnet.microsoft.com/languages/csharp" title="C#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
-<a href="https://dotnet.microsoft.com" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a>
-<a href="https://www.ruby-lang.org" title="Ruby"><img src="https://skillicons.dev/icons?i=ruby&theme=dark" /></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+<a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
 <a href="https://laravel.com" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" /></a>
+<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+<a href="https://www.prisma.io/" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" /></a>
+<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
 </p>
 
 ### Ferramentas
@@ -50,7 +49,7 @@
 <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
 <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-<a href="https://visualstudio.microsoft.com" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
 <a href="https://www.microsoft.com/windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" /></a>
 <a href="https://cloud.oracle.com" title="Oracle Cloud"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" /></a>
 </p>
