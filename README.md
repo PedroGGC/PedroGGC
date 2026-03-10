@@ -48,9 +48,7 @@
 <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
 <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-<a href="https://developers.google.com/" title="Antigravity IDE">
-  <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-</a>
+<a href="https://developers.google.com/" title="Antigravity IDE"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="48" alt="Antigravity IDE" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
 <a href="https://www.microsoft.com/windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" /></a>
 <a href="https://cloud.oracle.com" title="Oracle Cloud"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" /></a>
