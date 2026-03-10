@@ -57,9 +57,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/profile-summary-cards-output/nord_dark/0-profile-details.svg" alt="GitHub Stats" />
-  <img height="160" src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/profile-summary-cards-output/nord_dark/1-repos-per-language.svg" alt="Top Languages" />
-</p>>
+  <img height="160" src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="GitHub Stats" />
+  <img height="160" src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commits Language" />
+  <img height="160" src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos Per Language" />
+</p>
 
 ## Contato
 
