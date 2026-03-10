@@ -26,9 +26,8 @@
 
 ## Tecnologias & Ferramentas
 
-### Base & Front-end
+### Front-end
 <p>
-<a href="https://www.learn-c.org" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
@@ -36,12 +35,12 @@
 
 ### Back-end & Banco de Dados
 <p>
-<a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
-<a href="https://laravel.com" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" /></a>
-<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
-<a href="https://www.prisma.io/" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" /></a>
+<a href="https://www.learn-c.org" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
 <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
+<a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
+<a href="https://www.prisma.io/" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" /></a>
 </p>
 
 ### Ferramentas
@@ -49,6 +48,7 @@
 <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
 <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+<a href="https://developers.google.com/" title="Antigravity IDE"><img src="https://skillicons.dev/icons?i=google&theme=dark" alt="Antigravity IDE" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
 <a href="https://www.microsoft.com/windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" /></a>
 <a href="https://cloud.oracle.com" title="Oracle Cloud"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" /></a>
