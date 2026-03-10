@@ -54,7 +54,6 @@
 <a href="https://cloud.oracle.com" title="Oracle Cloud"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" /></a>
 </p>
 
-
 ## GitHub Stats
 
 <p align="center">
