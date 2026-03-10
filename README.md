@@ -57,9 +57,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroGGC&theme=nord_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroGGC&theme=nord_dark" />
-</p>
+  <img height="160" src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/profile-summary-cards-output/nord_dark/0-profile-details.svg" alt="GitHub Stats" />
+  <img height="160" src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/profile-summary-cards-output/nord_dark/1-repos-per-language.svg" alt="Top Languages" />
+</p>>
 
 ## Contato
 
