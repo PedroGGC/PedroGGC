@@ -52,7 +52,6 @@
 <a href="https://developers.google.com/" title="Antigravity IDE"><img src="https://github.com/PedroGGC/PedroGGC/blob/main/Assets/antigravity-color.png?raw=true" width="48" alt="Antigravity IDE" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
 <a href="https://www.microsoft.com/windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" /></a>
-<a href="https://cloud.oracle.com" title="Oracle Cloud"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" /></a>
 </p>
 
 ## GitHub Stats
