@@ -14,13 +14,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Sobre mim
+## Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="25" height="25" />
 
-- Minha base vem do **C** — onde aprendi lógica, estruturas de dados e como pensar como um programador
-- Tenho experiência prática com **PHP, MySQL, HTML, CSS e JavaScript**, desenvolvidos por hobby
-- Foco atual e em processo de aprendizado: **TypeScript, Python, Prisma e Laravel**
-- Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web
-- Motto: *"Just trying to make it work"*
+- Minha base vem do C, o que me ensinou a resolver problemas e a ter um foco constante em otimização e performance.
+-  Tenho experiência prática criando projetos por hobby com PHP, MySQL, HTML, CSS e JS.
+-  Atualmente em processo de evolução com TypeScript.
+-   Movido a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> café, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> músicas e <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> jogos
+-  Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web.
+-  Motto: *"O obstáculo é o caminho."*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
