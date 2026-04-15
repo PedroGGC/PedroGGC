@@ -17,7 +17,7 @@
 <h2>Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" width="30" alt="Duck"></h2>
 - Minha base vem do C, o que me ensinou a resolver problemas e a ter um foco constante em otimização e performance.
 - Tenho experiência prática criando projetos por hobby com PHP, MySQL, HTML, CSS e JS.
-- Atualmente em processo de evolução com TypeScript.
+- Atualmente estudando TypeScript e Rust/Tauri.
 <ul>
   <li>Minha base vem do C, o que me ensinou a resolver problemas e a ter um foco constante em otimização e performance.</li>
   <li>Tenho experiência prática criando projetos por hobby com PHP, MySQL, HTML, CSS e JS.</li>
@@ -32,7 +32,7 @@
 
 ### Linguagens & DB(s)
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=php,py,rust)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=c,php,py,rust)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 
 
