@@ -26,9 +26,6 @@
   <li>Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web.</li>
   <li>Motto: <em>"O obstáculo é o caminho."</em></li>
 </ul>
-- Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web.
-- Motto: *"O obstáculo é o caminho."*
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tecnologias & Ferramentas
