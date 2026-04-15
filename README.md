@@ -14,14 +14,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="25" height="25" />
-
+<h2>Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" width="30" alt="Duck"></h2>
 - Minha base vem do C, o que me ensinou a resolver problemas e a ter um foco constante em otimização e performance.
--  Tenho experiência prática criando projetos por hobby com PHP, MySQL, HTML, CSS e JS.
--  Atualmente em processo de evolução com TypeScript.
--   Movido a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> café, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> músicas e <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> jogos
--  Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web.
--  Motto: *"O obstáculo é o caminho."*
+- Tenho experiência prática criando projetos por hobby com PHP, MySQL, HTML, CSS e JS.
+- Atualmente em processo de evolução com TypeScript.
+<ul>
+  <li>Minha base vem do C, o que me ensinou a resolver problemas e a ter um foco constante em otimização e performance.</li>
+  <li>Tenho experiência prática criando projetos por hobby com PHP, MySQL, HTML, CSS e JS.</li>
+  <li>Atualmente em processo de evolução com TypeScript.</li>
+  <li>Movido a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" alt="Hot Beverage"> café, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="20" alt="Musical Notes"> músicas e <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="20" alt="Video Game"> jogos</li>
+  <li>Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web.</li>
+  <li>Motto: <em>"O obstáculo é o caminho."</em></li>
+</ul>
+- Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web.
+- Motto: *"O obstáculo é o caminho."*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -41,7 +47,6 @@
 <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
 <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
 <a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" /></a>
-  
 </p>
 
 ### Ferramentas
