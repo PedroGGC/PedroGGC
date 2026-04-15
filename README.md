@@ -30,31 +30,20 @@
 
 ## Tecnologias & Ferramentas
 
-### Front-end
-<p>
-<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
-</p>
+### Linguagens & DB(s)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=php,py,rust)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 
-### Back-end & Banco de Dados
-<p>
-<a href="https://www.learn-c.org" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" /></a>
-<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
-<a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
-<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
-<a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" /></a>
-</p>
 
-### Ferramentas
-<p>
-<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
-<a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-<a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-<a href="https://developers.google.com/" title="Antigravity IDE"><img src="https://github.com/PedroGGC/PedroGGC/blob/main/Assets/antigravity-color.png?raw=true" width="48" alt="Antigravity IDE" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
-<a href="https://www.microsoft.com/windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" /></a>
-</p>
+### Frameworks & Libs
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=fastapi,tauri)](https://skillicons.dev)
+
+
+### Ferramentas & cloud
+<img src="https://skillicons.dev/icons?i=vite,postman&amp;theme=dark" height="48" align="absmiddle" /> <img src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/Assets/antigravity-color.png" height="48" align="absmiddle" alt="Antigravity IDE" /><br>
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,supabase)](https://skillicons.dev)<br>
 
 ## GitHub Stats
 
