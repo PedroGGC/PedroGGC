@@ -32,13 +32,13 @@
 
 ### Linguagens & DB(s)
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=c,php,py,rust)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=c,php,py)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 
 
 ### Frameworks & Libs
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=fastapi,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 
 
 ### Ferramentas & cloud
