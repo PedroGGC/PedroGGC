@@ -31,19 +31,18 @@
 ## Tecnologias & Ferramentas
 
 ### Linguagens & DB(s)
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=c,php,py)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=php,ts,js,html,css)](https://skillicons.dev)<br>
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,drizzle)
 
 
 ### Frameworks & Libs
-![icons](https://go-skill-icons.vercel.app/api/icons?i=react,tailwindcss,bootstrap)<br>
-![icons](https://go-skill-icons.vercel.app/api/icons?i=fastapi,vuejs,nodejs)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=react,tailwindcss,tauri)<br>
+![icons](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,vuejs)
 
 
 ### Ferramentas & cloud
 <img src="https://skillicons.dev/icons?i=supabase,vercel&amp;theme=dark" height="48" align="absmiddle" /> <img src="https://raw.githubusercontent.com/PedroGGC/PedroGGC/main/Assets/antigravity-color.png" height="48" align="absmiddle" alt="Antigravity IDE" /><br>
-[![My Skills](https://skillicons.dev/icons?i=docker,github,vite)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=docker,github,vite,nodejs)](https://skillicons.dev)<br>
 
 ## GitHub Stats
 
