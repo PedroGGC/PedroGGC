@@ -19,7 +19,6 @@
   <li>Tenho experiência prática criando projetos por hobby com PHP, MySQL, HTML, CSS e JS.</li>
   <li>Atualmente em processo de evolução com TypeScript.</li>
   <li>Movido a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" alt="Hot Beverage"> café, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="20" alt="Musical Notes"> músicas e <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="20" alt="Video Game"> jogos</li>
-  <li>Objetivo: construir um portfólio sólido e conquistar minha primeira vaga como dev web.</li>
   <li>Motto: <em>"O obstáculo é o caminho."</em></li>
 </ul>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
