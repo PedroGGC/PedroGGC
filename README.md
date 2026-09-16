@@ -1,10 +1,6 @@
 <h1 align="center">Olá, Me chamo Pedro Gabriel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=680&lines=Hobby+Developer;PHP+%2B+MySQL;Learning+TypeScript+%2F+Python;Building+Web+APIs+%26+Apps" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/PedroGGC">
     <img src="https://img.shields.io/github/followers/PedroGGC?label=Followers&style=social" alt="GitHub Followers" />
   </a>
